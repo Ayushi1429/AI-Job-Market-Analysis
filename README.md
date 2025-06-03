@@ -26,4 +26,4 @@ Python, SQL, TensorFlow, PyTorch, Kubernetes, GCP, Scala, Git, Linux, Java.
 This analysis provides a clear view of what the AI job market looks like and what aspirants should focus on to maximize their career growth.
 
 ## 🙌 Author
-Aayushi — BSc Applied Statistics student building her first Data Analytics project.
+Ayushi Baraskar — BSc Applied Statistics student building her first Data Analytics project.
