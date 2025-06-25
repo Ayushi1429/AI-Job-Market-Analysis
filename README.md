@@ -20,7 +20,7 @@ This project explores an AI job market dataset to identify salary trends, top sk
 - Remote jobs are quite common in AI roles.
 
 ## 📌 Skills Highlighted
-Python, SQL, TensorFlow, PyTorch, Kubernetes, GCP, Scala, Git, Linux, Java.
+Python, SQL, TensorFlow, PyTorch, Kubernetes, GCP, Scala, Git, Linux.
 
 ## 💡 Conclusion
 This analysis provides a clear view of what the AI job market looks like and what aspirants should focus on to maximize their career growth.
