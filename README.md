@@ -1,4 +1,3 @@
-
 # AI Job Market Analysis 📊
 
 ## 🔍 Overview
